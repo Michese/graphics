@@ -1,0 +1,14 @@
+{
+  "colors": [
+    {
+      "gradient1": "#eebef1",
+      "gradient2": "#ba55d3",
+      "gradient3": "#c364c5"
+    },
+    {
+      "gradient1": "#70d639",
+      "gradient2": "#467956",
+      "gradient3": "#65cf3e"
+    }
+  ]
+}
