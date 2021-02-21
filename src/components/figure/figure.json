@@ -1,14 +1,29 @@
 {
   "colors": [
     {
-      "gradient1": "#eebef1",
-      "gradient2": "#ba55d3",
-      "gradient3": "#c364c5"
+      "gradient1": "#FF9400",
+      "gradient2": "#FF4C00",
+      "gradient3": "#FF9400"
     },
     {
-      "gradient1": "#70d639",
-      "gradient2": "#467956",
-      "gradient3": "#65cf3e"
+      "gradient1": "#866FD7",
+      "gradient2": "#AC66D5",
+      "gradient3": "#A101A6"
+    },
+    {
+      "gradient1": "#E138AA",
+      "gradient2": "#C30083",
+      "gradient3": "#C30083"
+    },
+    {
+      "gradient1": "#FB717E",
+      "gradient2": "#F60018",
+      "gradient3": "#FF8500"
+    },
+    {
+      "gradient1": "#C0F400",
+      "gradient2": "#53DF00",
+      "gradient3": "#53DF00"
     }
   ]
 }

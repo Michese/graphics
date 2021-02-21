@@ -9928,17 +9928,5 @@ h3 {
     border-color: #dee2e6;
   }
 }
-body {
-  margin: 0;
-}
 
-.app {
-  margin: 0;
-  padding: 0;
-  height: 100vh;
-  width: 100vw;
-  background: white;
-  position: relative;
-}
-
-/*# sourceMappingURL=App.module.css.map */
+/*# sourceMappingURL=bootstrap.css.map */

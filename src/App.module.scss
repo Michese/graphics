@@ -1,3 +1,4 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
 body {
   margin: 0;
 }
@@ -9,35 +10,4 @@ body {
   width: 100vw;
   background: white;
   position: relative;
-}
-
-.menu {
-  display: block;
-  background: black;
-  position: fixed;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  width: 400px;
-  transform: translateX(-400px);
-  transition: transform ease-in-out .5s;
-}
-
-.hidden {
-  display: block;
-  background: transparent;
-  position: fixed;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  width: 200px;
-
-  &:hover .menu {
-    transform: translateX(0);
-  }
-}
-
-.svg {
-  height: 100%;
-  width: 100%;
 }

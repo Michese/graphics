@@ -1,0 +1,39 @@
+.menu {
+  display: block;
+  background: linear-gradient(90deg, #b9deed, #efefef);
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 400px;
+  transform: translateX(-400px);
+  transition: transform ease-in-out 0.5s;
+}
+.menu .menu__body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100%;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.menu .menu__body .block__add {
+  display: flex;
+  flex-direction: column;
+}
+
+.hidden {
+  display: block;
+  background: transparent;
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 200px;
+  box-shadow: inset 60px 0 40px -30px black;
+}
+.hidden:hover .menu {
+  transform: translateX(0);
+}
+
+/*# sourceMappingURL=menu.module.css.map */
